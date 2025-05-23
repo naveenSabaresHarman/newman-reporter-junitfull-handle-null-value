@@ -3,7 +3,7 @@
   "version": "1.1.1",
   "description": "A Newman JUnit Reporter providing full reports (without aggregation of results)",
   "main": "index.js",
-  "bundleDependencies": false,
+  "bundleDependencies": [],
   "dependencies": {
     "lodash": "^4.17.10",
     "moment": "^2.22.2",
