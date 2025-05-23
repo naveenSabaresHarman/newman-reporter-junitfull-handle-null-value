@@ -1,5 +1,5 @@
 {
-  "name": "newman-reporter-junitfull",
+  "name": "newman-reporter-junitfull-handle-null-property",
   "version": "1.1.1",
   "description": "A Newman JUnit Reporter providing full reports (without aggregation of results)",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "xmlbuilder": "^10.0.0"
   },
   "deprecated": false,
-  "homepage": "https://github.com/martijnvandervlag/newman-reporter-junitfull",
+  "homepage": "https://github.com/naveenSabaresHarman/newman-reporter-junitfull-handle-null-value",
   "keywords": [
     "newman",
     "reporter",
