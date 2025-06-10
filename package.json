@@ -1,6 +1,6 @@
 {
   "name": "newman-reporter-junitnull",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A Newman JUnit Reporter providing full reports (without aggregation of results)",
   "main": "index.js",
   "bundleDependencies": [],
